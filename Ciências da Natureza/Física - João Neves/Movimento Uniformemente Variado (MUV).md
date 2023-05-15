@@ -26,6 +26,9 @@ O mesmo pode ser feito em relação a aceleração do móvel:
 
 a fórmula geral para calcular a velociadade é a seguinte:
 $$A = \frac{\Delta V}{\Delta t}$$
-Tal que $A =$ aceleração, $\Delta V =$ variação de velocidade e $\Delta t =$ variação de tempo
-
-Pode-se usar a equação horar
+Pode-se usar a equação horária da velocidade para calcular a velocide de um corpo em um instante especifico
+$$V = V_0 + at$$
+Existe tambem a equação horária do espaço, que como o nome diz, pode ser usada para encontrar o espaço em um determinado instante
+$$S=S_0+V_0t+\frac{at²}{2}$$
+E por fim, temos a equação de Torricelli, que pode ser usada para achar a velocidade sem saber o tempo
+$$$$
