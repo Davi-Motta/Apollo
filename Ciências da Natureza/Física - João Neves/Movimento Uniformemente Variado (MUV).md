@@ -1,4 +1,4 @@
-
+<br></br>
 ## Conceito
 
 Um movimento é considerado uniformemente variado quando sua aceleração tem módulo constante, ou seja, se mantem a mesma. Essa aceleração acaba resultando em uma mudança previsível (uniforme) na aceleração.
@@ -31,4 +31,4 @@ $$V = V_0 + at$$
 Existe tambem a equação horária do espaço, que como o nome diz, pode ser usada para encontrar o espaço em um determinado instante
 $$S=S_0+V_0t+\frac{at²}{2}$$
 E por fim, temos a equação de Torricelli, que pode ser usada para achar a velocidade sem saber o tempo
-$$$$
+$$V²=V_0² + 2a\Delta S$$
