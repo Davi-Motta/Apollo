@@ -25,4 +25,7 @@ O mesmo pode ser feito em relação a aceleração do móvel:
 ## Formulas
 
 a fórmula geral para calcular a velociadade é a seguinte:
-$$\frac{\Delta V}{\Delta t}$$
+$$A = \frac{\Delta V}{\Delta t}$$
+Tal que $A =$ aceleração, $\Delta V =$ variação de velocidade e $\Delta t =$ variação de tempo
+
+Pode-se usar a equação horar
