@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciências Humanas/História/Grécia.md",
+                "file": "Ciências Humanas/História/Grécia Antiga.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciências Humanas/História/Grécia.md",
+                "file": "Ciências Humanas/História/Grécia Antiga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciências Humanas/História/Grécia.md",
+                "file": "Ciências Humanas/História/Grécia Antiga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciências Humanas/História/Grécia.md"
+                "file": "Ciências Humanas/História/Grécia Antiga.md"
               }
             }
           }
@@ -154,7 +154,7 @@
     "Ciências da Natureza/Dashboard.md",
     "Linguagens/Dashboard.md",
     "Matemática/Dashboard.md",
-    "Ciências Humanas/História/Grécia.md",
+    "Ciências Humanas/História/Grécia Antiga.md",
     "Ciências Humanas/História",
     "Matemática",
     "Ciências da Natureza",
