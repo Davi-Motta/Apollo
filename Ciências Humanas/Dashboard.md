@@ -1,1 +1,1 @@
-[[Ciências Humanas/História/Dashboard |História - Profª Tatiane Trigueiro]]
+[[Ciências Humanas/História - Tatiane/Dashboard|História - Tatiane Trigueiro]]

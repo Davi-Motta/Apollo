@@ -1,0 +1,1 @@
+[[Movimento Uniformemente Variado (MUV)]]
