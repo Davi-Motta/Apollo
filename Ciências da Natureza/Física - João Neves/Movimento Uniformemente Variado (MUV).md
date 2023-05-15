@@ -7,7 +7,7 @@ Um movimento é considerado uniformemente variado quando sua aceleração tem m�
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Tempo (s) | 0 | 1 | 2 | 3 | 4 | 5 |
 Comparação velocidade x tempo para aceleração = 4m/s²
-
+<br></br>
 ## Movimento Progressivo e Retrógrado
 
 Um movimento uniformemente variado pode ser classivicado de acordo com o modulo da sua velocidade:
@@ -21,3 +21,4 @@ O mesmo pode ser feito em relação a aceleração do móvel:
 
 * Se o módulo da aceleração for positivo, o móvel está em movimento acelerado
 * Se o módulo da aceleração for negatvio, o móvel está em movimento retardado
+
