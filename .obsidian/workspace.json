@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Ciências Humanas/História/Dashboard.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ciências Humanas/História/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ciências Humanas/História/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ciências Humanas/História/Dashboard.md"
               }
             }
           }
@@ -148,10 +148,18 @@
   },
   "active": "4e06464857a05540",
   "lastOpenFiles": [
+    "Ciências Humanas/História/Grécia.md",
+    "Ciências Humanas/História/Dashboard.md",
+    "Ciências Humanas/Dashboard.md",
+    "README.md",
+    "Ciências Humanas/História",
+    "Matemática",
+    "Ciências da Natureza",
+    "Ciências Humanas",
+    "Linguagens",
     "Assets/Misc/Logo.png",
     "Assets/Misc",
     "Assets",
-    "Logo.png",
-    "Untitled"
+    "Logo.png"
   ]
 }
