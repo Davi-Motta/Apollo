@@ -10,6 +10,14 @@ Comparação velocidade x tempo para aceleração = 4m/s²
 
 ## Movimento Progressivo e Retrógrado
 
-Um movimento uniformemente variado pode ser classivicado de acordo com o modulo da sua velocidade
+Um movimento uniformemente variado pode ser classivicado de acordo com o modulo da sua velocidade:
 
-Se a velocidade for positiva, o movimento é progressivo
+* Se o módulo da velocidade for positivo, o móvel está em movimento progressivo
+* Se o módulo da velocidade for negatvio, o móvel está em movimento retrógrado
+
+## Movimento Acelerado e Retardado
+
+O mesmo pode ser feito em relação a aceleração do móvel:
+
+* Se o módulo da aceleração for positivo, o móvel está em movimento acelerado
+* Se o módulo da aceleração for negatvio, o móvel está em movimento retardado
