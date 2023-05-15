@@ -22,3 +22,7 @@ O mesmo pode ser feito em relação a aceleração do móvel:
 * Se o módulo da aceleração for positivo, o móvel está em movimento acelerado
 * Se o módulo da aceleração for negatvio, o móvel está em movimento retardado
 
+## Formulas
+
+a fórmula geral para calcular a velociadade é a seguinte:
+$$\frac{\Delta V}{\Delta t}$$
