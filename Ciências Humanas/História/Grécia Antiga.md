@@ -7,4 +7,4 @@ A História dessa civilização pode ser dividida em algumas Fases:
 
 O período pŕe-Homerico ocorreu por volta dos séculos XX à XII a.C. e foi o período inicial no estudo da civilização Grega.
 
-O estudo dessa fase começa com a migração dos povos Aqueus, Jônios e Eólios para a região da Grécia. Esses povos viviam em harmonia entre si e com os outros que já habitavam essa região, os 
+O estudo dessa fase começa com a migração dos povos Aqueus, Jônios e Eólios para a região da Grécia. Esses povos viviam em harmonia entre si e com os Cretenses, que habitavam a Ilha de Creta. 
