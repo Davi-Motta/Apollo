@@ -32,7 +32,14 @@ Obs.: A partir de 11 carbonos, usa-se o prefixo Poli-<br></br>
 | Tripla              | -ino       |
 Obs.: Ligações simples são chamadas saturações e as duplas e triplas insaturações<br></br>
 
+## Formulas
+
 ## Calculando fórmula molecular do Hidrocarboneto
 
 Pode-se calcular a fórmula molecular de um hidrocarboneto fazendo a sua representação estrutural e contando a quantidade de atomos, todavia, para Alcanos, Alcenos e Alcinos, pode-se usar algumas formulas
 
+| **Tipo de Hidrocarboneto** | **Formula** |
+|:--------------------------:|-------------|
+| Alcano                     | $CnH(2n+2)$ |
+| Alceno                     | $CnH2n$     |
+| Alceno                     | $CnH(2n-2)$ |
