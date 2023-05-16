@@ -15,10 +15,17 @@ Aqui estão as quatro funções organicas que vamos estudar, assim como quais el
 ## Nomeando Hidrocarbonetos
 
 A nomenclatura dos hidrocarbonetos é composta por duas partes, um prefixo que determina o número de carbonos, e um sufixo que determina o tipo de ligação.
-| Número de Carbonos | Prefíxo | Número de Carbonos | Prefíxo |
+
+| **Número de Carbonos** | **Prefíxo** | **Número de Carbonos** | **Prefixo** |
 |---|---|---|---|
 | 1 | Met- | 6 | Hex- |
 | 2 | Et- | 7 | Hept- |
 | 3 | Prop- | 8 | Oct- |
 | 4 | But- | 9 | Non- |
 | 5 | Pent- | 10 | Dec- |
+Tabela dos Perfíxos em dos hidrocarbonetos<br></br>
+| **Tipo de Ligação** | **Sufixo** |
+|:-------------------:|------------|
+| Simples             | -ano       |
+| Dupla               | -eno       |
+| Tripla              | -ino       |
