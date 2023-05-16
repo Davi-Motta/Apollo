@@ -23,9 +23,16 @@ A nomenclatura dos hidrocarbonetos é composta por duas partes, um prefixo que d
 | 3 | Prop- | 8 | Oct- |
 | 4 | But- | 9 | Non- |
 | 5 | Pent- | 10 | Dec- |
-Tabela dos Perfíxos em dos hidrocarbonetos<br></br>
+Obs.: A partir de 11 carbonos, usa-se o prefixo Poli-<br></br>
+
 | **Tipo de Ligação** | **Sufixo** |
 |:-------------------:|------------|
 | Simples             | -ano       |
 | Dupla               | -eno       |
 | Tripla              | -ino       |
+Obs.: Ligações simples são chamadas saturações e as duplas e triplas insaturações<br></br>
+
+## Calculando fórmula molecular do Hidrocarboneto
+
+Pode-se calcular a fórmula molecular de um hidrocarboneto fazendo a sua representação estrutural e contando a quantidade de atomos, todavia, para Alcanos, Alcenos e Alcinos, pode-se usar algumas formulas
+
