@@ -1,7 +1,7 @@
 <br></br>
 ## Conceito
 
-Um movimento é considerado uniformemente variado quando sua aceleração tem módulo constante, ou seja, se mantem a mesma. Essa aceleração acaba resultando em uma mudança previsível (uniforme) na aceleração.
+Um movimento é considerado uniformemente variado quando sua aceleração tem módulo constante, ou seja, se mantem a mesma. Essa aceleração acaba resultando em uma mudança previsível (uniforme) na velocidade.
 
 | Velocidade (m/s) | 0 | 4 | 8 | 12 | 16 | 20 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
