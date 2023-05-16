@@ -12,5 +12,6 @@ Aqui estão as quatro funções organicas que vamos estudar, assim como quais el
 * Função Nitrogenada --> Função Oxigenada + Nitrogênio
 * Função Sulfonada --> Função Nitrogenada + Enxofre
 
-## Hidrocarbonetos
+## Nomeando Hidrocarbonetos
 
+A nomenclatura dos hidrocarbonetos é composta por duas partes, um prefixo que determina o número de carbonos, 
