@@ -14,4 +14,5 @@ Aqui estão as quatro funções organicas que vamos estudar, assim como quais el
 
 ## Nomeando Hidrocarbonetos
 
-A nomenclatura dos hidrocarbonetos é composta por duas partes, um prefixo que determina o número de carbonos, 
+A nomenclatura dos hidrocarbonetos é composta por duas partes, um prefixo que determina o número de carbonos, e um sufixo que determina o tipo de ligação.
+
