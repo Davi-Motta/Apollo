@@ -5,8 +5,12 @@ A química Orgânia é o campo da química que estuda as moléculas de carbono. 
 
 ## Funções Orgânicas
 
-Vamos estudar as seguintes funções orgânicas:
+Aqui estão as quatro funções organicas que vamos estudar, assim como quais elementos químicos as compoẽm:
 
-* Hidrocarboneto
-* Função Oxigenada
-* Fun
+* Hidrocarboneto --> Carbono + Hidrogênio
+* Função Oxigenada --> Hidrocarboneto + Oxigênio
+* Função Nitrogenada --> Função Oxigenada + Nitrogênio
+* Função Sulfonada --> Função Nitrogenada + Enxofre
+
+## Hidrocarbonetos
+
